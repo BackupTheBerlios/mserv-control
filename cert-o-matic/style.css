@@ -1,0 +1,10 @@
+body             {font-family: arial, helvetica, geneva, sans-serif; font-size: small; color: #000000}
+th               {font-family: arial, helvetica, geneva, sans-serif; font-size: small; font-weight: bold; background-color: #C3DCD3}
+td               {font-family: arial, helvetica, geneva, sans-serif; font-size: small}
+h1               {font-family: arial, helvetica, geneva, sans-serif; font-size: 15pt; font-weight: bold}
+h3               {font-family: arial, helvetica, geneva, sans-serif; font-size: 10pt; font-weight: bold}
+A:link           {font-family: arial, helvetica, geneva, sans-serif; font-size: small; text-decoration: none; color: #0000FF}
+A:visited        {font-family: arial, helvetica, geneva, sans-serif; font-size: small; text-decoration: none; color: #0000FF}
+A:hover.nobold   {font-family: arial, helvetica, geneva, sans-serif; font-size: small; text-decoration: underline; color: #FF0000;}
+A:hover          {font-family: arial, helvetica, geneva, sans-serif; font-size: small; text-decoration: underline; color: #FF0000; font-weight: bold}
+.tiny            {font-family: arial, helvetica, geneva, sans-serif; font-size: 07pt; color: #000000}
